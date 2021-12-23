@@ -40,3 +40,10 @@ Audio: ALC285 layout 66
 ## Not tested
 
 - HDMI port
+
+## Downloads
+
+- OpenCorePkg: [0.7.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.6)
+- macOS Monterey: `python ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download`
+
+Also reference the Install Guide [here](https://dortania.github.io/OpenCore-Install-Guide/).
