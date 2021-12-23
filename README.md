@@ -51,6 +51,11 @@ Also reference the Install Guide [here](https://dortania.github.io/OpenCore-Inst
 
 ## Changelog
 
+### v1.0
+
+- added OpenCore GUI
+- disabled debugging
+
 ### v0.2
 
 - added support for keyboard and audio
