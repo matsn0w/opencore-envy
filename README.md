@@ -28,6 +28,7 @@ Audio: ALC285 layout 66
 - Headphone jack
 - USB-c port
 - USB-a ports
+- Battery status
 
 ## Things that don't work
 
