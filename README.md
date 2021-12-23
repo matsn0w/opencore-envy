@@ -47,3 +47,15 @@ Audio: ALC285 layout 66
 - macOS Monterey: `python ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download`
 
 Also reference the Install Guide [here](https://dortania.github.io/OpenCore-Install-Guide/).
+
+## Changelog
+
+### v0.2
+
+- added support for keyboard and audio
+- upgraded to macOS Monterey
+- started tracking version history
+
+### v0.1
+
+- initial version with Big Sur, not tracked in this repo
